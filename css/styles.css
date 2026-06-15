@@ -1,0 +1,19 @@
+.odin-recipes {
+    color: gold;
+    background-color: black;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 20px;
+    margin-right: 500px;
+    margin-left: 500px
+}
+#recipes {
+    color:aqua;
+    background-color: darkgreen;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 20px;
+    margin-right: 500px;
+    margin-left: 500px;
+    box-sizing: content-box;
+    
+    
+}
